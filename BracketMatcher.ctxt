@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BracketMatcher
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str
+comment2.target=java.lang.String\ matchBrackets(java.lang.String)
+comment3.params=c\ y
+comment3.target=boolean\ eq(java.lang.Character,\ java.lang.Character)
+numComments=4
